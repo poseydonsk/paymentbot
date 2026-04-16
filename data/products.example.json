@@ -1,0 +1,25 @@
+[
+  {
+    "id": "steam-10",
+    "title": "Steam Gift Card $10",
+    "description": "Digital activation code.",
+    "price": 10,
+    "currency": "USD",
+    "active": true,
+    "codes": [
+      "STEAM-DEMO-CODE-0001",
+      "STEAM-DEMO-CODE-0002"
+    ]
+  },
+  {
+    "id": "discord-nitro",
+    "title": "Discord Nitro 1 Month",
+    "description": "Account gift code.",
+    "price": 5,
+    "currency": "USD",
+    "active": true,
+    "codes": [
+      "NITRO-DEMO-CODE-0001"
+    ]
+  }
+]
